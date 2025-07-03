@@ -64,8 +64,8 @@ Make sure you are using `Python 3.12` or later. <br>
 These instructions will help you get set up with a local development environment
 1. Clone the repository:
    ```shell
-   git clone https://github.com/yashanksingh/Secure-File-Sharing-System.git
-   cd Secure-File-Sharing-System
+   git clone https://github.com/Ayush105199/EZ-Backend-Assignment
+   cd EZ-Backend-Assignment
    ```
 2. Set up a virtual environment:
    ```shell
